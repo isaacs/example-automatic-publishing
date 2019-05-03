@@ -8,6 +8,7 @@
     "postversion": "npm publish --access=public",
     "test": "tap"
   },
+  "repository": "https://github.com/isaacs/example-automatic-publishing",
   "tap": {
     "check-coverage": true
   },
