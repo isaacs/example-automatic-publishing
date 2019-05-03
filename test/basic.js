@@ -6,3 +6,5 @@ t.match(autoPushingExample, {
   foo: 'bar',
   baz: Function
 })
+
+autoPushingExample.baz()
