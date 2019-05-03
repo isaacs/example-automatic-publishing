@@ -4,6 +4,7 @@
   "description": "this is an example that auto-publishes on npm version",
   "main": "index.js",
   "scripts": {
+    "preversion": "npm test",
     "test": "tap"
   },
   "tap": {
