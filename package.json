@@ -1,6 +1,6 @@
 {
   "name": "@isaacs/example-automatic-publishing",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "this is an example that auto-publishes on npm version",
   "main": "index.js",
   "scripts": {
