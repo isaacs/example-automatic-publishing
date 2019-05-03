@@ -1,0 +1,17 @@
+{
+  "name": "@isaacs/example-automatic-publishing",
+  "version": "0.0.0",
+  "description": "this is an example that auto-publishes on npm version",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap"
+  },
+  "tap": {
+    "check-coverage": true
+  },
+  "author": "Isaac Z. Schlueter <i@izs.me> (https://blog.izs.me)",
+  "license": "ISC",
+  "files": [
+    "index.js"
+  ]
+}
